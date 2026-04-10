@@ -26,4 +26,4 @@
 
 
 🔹Class & Object
-![ Class & Object](class&object)
+![ Class & Object](class&object.png)
